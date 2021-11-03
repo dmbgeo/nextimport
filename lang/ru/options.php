@@ -1,0 +1,3 @@
+<?
+$MESS["DMBGEO_NEXTIMPORT_PROJECTS_IBLOCK_ID"] = 'Инфоблок Проектов';
+$MESS["DMBGEO_NEXTIMPORT_APARTAMENTS_IBLOCK_ID"] = 'Инфоблок Квартир';
