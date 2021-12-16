@@ -328,6 +328,7 @@ class Import
         $PROP['INSTALLMENT_PLAN'] = $apartament['INSTALLMENT_PLAN'];
         $PROP['PRICE'] = array('VALUE' => $apartament['PRICE'], 'DESCRIPTION' => $apartament['OLD_PRICE']);
         $PROP['FLOOR'] = $apartament['FLOOR'];
+        $PROP['PRICE_INCLUDES'] = $apartament['PRICE_INCLUDES'];
 
 
         $arLoadProductArray = array(
